@@ -1,5 +1,10 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.KimAV.Sprint0.Task0.V0/Tyuiu.KimAV.Sprint0.Task0.V0.csproj" Id="0be8ae4d-03cf-4d81-aa3f-e42f2c92e161" />
+    <Project Path="Tyuiu.KimAV.Sprint0.Task0.V0/Tyuiu.KimAV.Sprint0.Task0.V0.csproj" Id="0be8ae4d-03cf-4d81-aa3f-e42f2c92e161">
+      <BuildDependency Project="Tyuiu.KimAV.Sprint0.Task1.V0/Tyuiu.KimAV.Sprint0.Task1.V0.csproj" />
+    </Project>
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KimAV.Sprint0.Task1.V0/Tyuiu.KimAV.Sprint0.Task1.V0.csproj" Id="3ccc5f8e-efac-48d7-b8fb-8dbdca64edc8" />
   </Folder>
 </Solution>
