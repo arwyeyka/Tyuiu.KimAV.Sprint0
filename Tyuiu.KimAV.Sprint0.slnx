@@ -7,4 +7,9 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.KimAV.Sprint0.Task1.V0/Tyuiu.KimAV.Sprint0.Task1.V0.csproj" Id="3ccc5f8e-efac-48d7-b8fb-8dbdca64edc8" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.KimAV.Sprint0.Task2.V0.Lib/Tyuiu.KimAV.Sprint0.Task2.V0.Lib.csproj" Id="e16634d3-9d87-4645-b26a-f964dc41426d" />
+    <Project Path="Tyuiu.KimAV.Sprint0.Task2.V0.Test/Tyuiu.KimAV.Sprint0.Task2.V0.Test.csproj" Id="fc962d03-8a03-4f8b-925f-6fc1d3626c01" />
+    <Project Path="Tyuiu.KimAV.Sprint0.Task2.V0/Tyuiu.KimAV.Sprint0.Task2.V0.csproj" Id="cbf206e8-f9bb-4ca7-926e-0ba97ac9e6bf" />
+  </Folder>
 </Solution>
